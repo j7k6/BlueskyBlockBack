@@ -1,0 +1,3 @@
+class auth:
+    username = ''
+    password = ''
